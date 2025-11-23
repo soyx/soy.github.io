@@ -3,15 +3,15 @@
   <channel>
     <title>My Podcast</title>
     <link>https://yourusername.github.io</link>
-    <description>Podcast test using Google Drive</description>
+    <description>Podcast test using Tencent Cloud COS</description>
     <language>en-us</language>
     <itunes:image href="https://yourusername.github.io/podcast_cover.jpg"/>
 
     <item>
       <title>Test Podcast Episode</title>
       <itunes:duration>00:05:23</itunes:duration>
-      <description>This is a test podcast episode using a Google Drive hosted audio file.</description>
-      <enclosure url="https://podcast-storage-763-1307733450.cos.ap-shanghai.myqcloud.com/Podcast/TheWitcher/I.%E7%99%BD%E7%8B%BC%E5%B4%9B%E8%B5%B7/7.%E4%B8%89%E4%B8%AA%E6%84%BF%E6%9C%9B.mp3?q-sign-algorithm=sha1&q-ak=AKIDMZdP4qC68HbnbxXcV_mcTUgEsyUPORyq0pRe19u5HCRyVlCp_Bs3G8EJFoH_GtXu&q-sign-time=1763881603;1763885203&q-key-time=1763881603;1763885203&q-header-list=host&q-url-param-list=&q-signature=d250e7966d1552dada49e9bf2305be3124fcdcf3&x-cos-security-token=Up2NwMjPpPrj2ISUXQY0nRRub2qvoMFae1839adcf99acbab87871d04d2e95060f80brlDPA2VoqBDn619duuKHeIDCYCXafXMkgAanwTz_YWA6XA2nMDg7QY4CbOa3SM6A_DMJBP8oYUH26QNOs3NhyOW-j31R9KM9Q3eiAYzqpqVepj7gYjbEA-aXh3z-69QlDyI4Pr7pGD7tgwkJR9Z-Z5hWnql94DPx96myQIOiVGpyyTyhsXLLDZOkxxJBJJj8ohrnM556RXmmXdniqAf60bAVLxvIvNLwVkas7ObejGfhBtCyakxKQXXIt5vnHhi0B0C81ao5a4ajSRqv9g" type="audio/mpeg" />
+      <description>This is a test podcast episode using a Tencent Cloud COS hosted audio file.</description>
+      <enclosure url="https://podcast-storage-763-1307733450.cos.ap-shanghai.myqcloud.com/Podcast/TheWitcher/I.%E7%99%BD%E7%8B%BC%E5%B4%9B%E8%B5%B7/7.%E4%B8%89%E4%B8%AA%E6%84%BF%E6%9C%9B.mp3?q-sign-algorithm=sha1&q-ak=AKIDravgYwhJLHXGlxi4-1QQN9VbJaMz2OSY7hMU-HRdSuInPbBco9WaSbOcUrWmeyZr&q-sign-time=1763882529;1763886129&q-key-time=1763882529;1763886129&q-header-list=host&q-url-param-list=&q-signature=e29171adaf6fd2bec8977586ba0b02322ca61e30&x-cos-security-token=8h09GapU74ro3vPyd9daZ2AcD7cSaLoa7da66008af097e256bd58644429d109byAJ1g7a9oMhvQ6BlnlzGd7Acy2kIFf5LxoOn64x1IKBL6tQpdil5N2Cb_7Pn_MSWFVh1UMzMYIDWkZp0yAi63ptDZOjUiMhAkO6sNXnUt95BoLBZdV8d5pYJs0lUSC8ez4uPcDVdCJhKB9t0UAuximZRFF7vDHCrcO5ugvi6hrLcyBu-XKgkevPUYzt3wDW1NksjbIHwuwlyQ6JEXUxv1k_Y4GYRp3d0aq2ugorAoB4dKATJbLOp4hhGkgBoypsxf9GOh3qmikVli-CMqn6TmQ" type="audio/mpeg" />
       <guid>https://yourusername.github.io/podcast/episode1</guid>
       <pubDate>Thu, 25 Nov 2025 08:00:00 GMT</pubDate>
     </item>
