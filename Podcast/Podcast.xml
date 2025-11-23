@@ -11,9 +11,6 @@
       <title>Test Podcast Episode</title>
       <itunes:duration>00:05:23</itunes:duration>
       <description>This is a test podcast episode using a Google Drive hosted audio file.</description>
-      <enclosure url="https://drive.google.com/uc?export=download&id=1ZbmB7UtsbH9wdvldiKhec0YFSxlvQ4C4" type="audio/mpeg" />
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZbmB7UtsbH9wdvldiKhec0YFSxlvQ4C4&amp;authuser=0" type="audio/mpeg" />
       <guid>https://yourusername.github.io/podcast/episode1</guid>
       <pubDate>Thu, 25 Nov 2025 08:00:00 GMT</pubDate>
-    </item>
-  </channel>
-</rss>
