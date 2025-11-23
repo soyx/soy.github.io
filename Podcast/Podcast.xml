@@ -11,7 +11,7 @@
       <title>Test Podcast Episode</title>
       <itunes:duration>00:05:23</itunes:duration>
       <description>This is a test podcast episode using a Tencent Cloud COS hosted audio file.</description>
-      <enclosure url="https://soyx.github.io/soy.github.io/Podcast/TheWitcher/Volume1/test.mp3" type="audio/mpeg" />
+      <enclosure url="https://pub-2c196d29190946249b44afe0df21f953.r2.dev/TheWitcher/7.%E4%B8%89%E4%B8%AA%E6%84%BF%E6%9C%9B.mp3" type="audio/mpeg" />
       <guid>https://yourusername.github.io/podcast/episode1</guid>
       <pubDate>Thu, 25 Nov 2025 08:00:00 GMT</pubDate>
     </item>
