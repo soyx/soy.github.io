@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>My Podcast</title>
+    <link>https://yourusername.github.io</link>
+    <description>Podcast test using Google Drive</description>
+    <language>en-us</language>
+    <itunes:image href="https://yourusername.github.io/podcast_cover.jpg"/>
+
+    <item>
+      <title>Test Podcast Episode</title>
+      <itunes:duration>00:05:23</itunes:duration>
+      <description>This is a test podcast episode using a Google Drive hosted audio file.</description>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1ZbmB7UtsbH9wdvldiKhec0YFSxlvQ4C4" type="audio/mpeg" />
+      <guid>https://yourusername.github.io/podcast/episode1</guid>
+      <pubDate>Thu, 25 Nov 2025 08:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
